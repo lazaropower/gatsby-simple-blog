@@ -1,5 +1,5 @@
 ---
-title: "Gatsby"
+title: "The great gatsby bootcamp"
 date: "2021-07-20"
 layout: blog
 draft: true
@@ -11,6 +11,8 @@ tags:
 ---
 
 I just launched a new bootcamp!
+
+![Beach](./beach.jpeg)
 
 ## Topics Covered
 
