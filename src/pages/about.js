@@ -7,9 +7,9 @@ const About = () => {
     return (
         <Layout>
             <Head title="About" />
-            <h1>About me</h1>
-            <p>Here it should be written a drescription about myself.</p>
-            <p>If you need something, reach me out <Link to='/contact'>here</Link>.</p>
+            <h1>About</h1>
+            <p>The main idea behind this project is to have the simplest blog ever.</p>
+            <p>Check more information <Link to='/contact'>here</Link>.</p>
         </Layout>
     )
 }

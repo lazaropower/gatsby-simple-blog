@@ -10,9 +10,15 @@ export default function Home() {
     <Layout>
       <Head title="Home"/>
       <h1>Hello,</h1>
-      <h2>I am creating this website to learn gatsby.</h2>
+      <h2>This is a very <b>simple blog</b>.</h2>
       <p>
-        Need a developer? <Link to="/contact">Contact me</Link>.
+       📕 It uses Gatsby and is ready to be integrated with <Link to="https://www.contentful.com" target="_blank">contentful</Link>.
+      </p>
+      <p>
+       🚀 Very <b>easy</b> to configure and deploy.
+      </p>
+      <p>
+       🔗 Need more information? Check <Link to="/contact">this out</Link>.
       </p>
     </Layout>
   )

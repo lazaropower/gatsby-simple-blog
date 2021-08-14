@@ -7,8 +7,8 @@ const Contact = () => {
   return (
     <Layout>
       <Head title="Contact" />
-      <h1>Contact me!</h1>
-      <p>You can reach me out on <Link to="https://www.twitter.com/lazaro_8" target="_blank">twitter</Link>!</p>
+      <h1>Check it out!</h1>
+      <p>More information available on <Link to="https://github.com/lazaropower/gatsby-simple-blog" target="_blank">Github</Link>.</p>
       </Layout>
   )
 }
