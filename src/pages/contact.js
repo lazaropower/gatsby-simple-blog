@@ -8,8 +8,17 @@ const Contact = () => {
     <Layout>
       <Head title="Contact" />
       <h1>Check it out!</h1>
-      <p>More information available on <Link to="https://github.com/lazaropower/gatsby-simple-blog" target="_blank">Github</Link>.</p>
-      </Layout>
+      <p>
+        More information available on{" "}
+        <Link
+          to="https://github.com/lazaropower/gatsby-simple-blog"
+          target="_blank"
+        >
+          Github
+        </Link>
+        .
+      </p>
+    </Layout>
   )
 }
 

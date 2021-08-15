@@ -1,4 +1,3 @@
-//const { createFilePath } = require(`gatsby-source-filesystem`)
 const path = require("path")
 
 // export is equal to write module.exports
