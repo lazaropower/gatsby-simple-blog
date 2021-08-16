@@ -41,6 +41,13 @@ This is a simple and clean design blog created while I was learning Gatsby. The 
   </a>
 </p>
 
+   After that you should add the API Keys to the ".env.example" file and rename to ".env".
+
+3.  **Launch the project.**
+
+```shell
+    npm run develop
+```
 ## 💫 Deploy
 
 You can build and easily deploy this blog in services like [Netlify](https://www.netlify.com/).
