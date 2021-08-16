@@ -47,4 +47,4 @@ You can build and easily deploy this blog in services like [Netlify](https://www
 
 ## 📩 Let's keep in touch
 
-You can reach me out though [email](mailto:hello@lazaropower.dev) and [Linkedin](https://www.linkedin.com/in/l%C3%A1zaro-amor-sevilla-a44947167/).
+You can reach me out through [email](mailto:hello@lazaropower.dev) and [Linkedin](https://www.linkedin.com/in/l%C3%A1zaro-amor-sevilla-a44947167/).
