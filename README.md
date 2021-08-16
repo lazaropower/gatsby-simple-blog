@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-    <a href="#">View Demo</a>
+    <a href="https://sleepy-bassi-07dbf5.netlify.app">View Demo</a>
     ·
     <a href="https://github.com/lazaropower/gatsby-simple-blog/issues">Report Bug</a>
 </p>
